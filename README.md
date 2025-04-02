@@ -1,8 +1,5 @@
 ## Hi there 👋
-
-# eeeeeeee
-## 1234
-### 3333
+## eeeeeeee
 <!--
 **gycks-2/gycks-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
