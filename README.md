@@ -1,12 +1,4 @@
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/${gycks-2}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${gycks-2}&layout=compact&show_icons=${true}&show_owner=${ture}&hide_title=${true}&theme=${nord}&hide=${}" />
-  </a>
-</p>
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/${gycks-2}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${gycks-2}&hide=${}&hide_title=${}&show_icons=${true}&include_all_commits=${}&theme=${nord}" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/${아이콘}-${색상}?style=${Static Badges}&logo=${텍스트}&logoColor=${텍스트 색상}"/></a>&nbsp
+
+// 사용한 옵션
+뱃지스타일 : flat
