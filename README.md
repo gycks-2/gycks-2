@@ -2,14 +2,16 @@
 
 ## information
 
-my name is yu hyo chan , I am a student at Yeungnam University
+My name is yu hyo chan , I'm 23 old and I am majoring in mathematics at Yeungnam University and completing a computer science major with a double major
 
 ## history
 
--sungseo high shool
+=Seongji middle school
 
--young nam university student
+-Seongseo high school
+
+-Young nam university student
 
 ## Future Hopes
 
-I will be an outstanding developer
+I will make a lot of money by becoming a great developer
